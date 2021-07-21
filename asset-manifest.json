@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.3d6683b3.chunk.css",
-    "main.js": "/static/js/main.c5765a28.chunk.js",
-    "main.js.map": "/static/js/main.c5765a28.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.57b4c516.js",
-    "runtime-main.js.map": "/static/js/runtime-main.57b4c516.js.map",
-    "static/css/2.0c14234b.chunk.css": "/static/css/2.0c14234b.chunk.css",
-    "static/js/2.8b86b3a0.chunk.js": "/static/js/2.8b86b3a0.chunk.js",
-    "static/js/2.8b86b3a0.chunk.js.map": "/static/js/2.8b86b3a0.chunk.js.map",
-    "static/js/3.bd81a563.chunk.js": "/static/js/3.bd81a563.chunk.js",
-    "static/js/3.bd81a563.chunk.js.map": "/static/js/3.bd81a563.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.0c14234b.chunk.css.map": "/static/css/2.0c14234b.chunk.css.map",
-    "static/css/main.3d6683b3.chunk.css.map": "/static/css/main.3d6683b3.chunk.css.map",
-    "static/js/2.8b86b3a0.chunk.js.LICENSE.txt": "/static/js/2.8b86b3a0.chunk.js.LICENSE.txt"
+    "main.css": "/bimdev-learning/static/css/main.3d6683b3.chunk.css",
+    "main.js": "/bimdev-learning/static/js/main.c5097200.chunk.js",
+    "main.js.map": "/bimdev-learning/static/js/main.c5097200.chunk.js.map",
+    "runtime-main.js": "/bimdev-learning/static/js/runtime-main.2e8e6c21.js",
+    "runtime-main.js.map": "/bimdev-learning/static/js/runtime-main.2e8e6c21.js.map",
+    "static/css/2.0c14234b.chunk.css": "/bimdev-learning/static/css/2.0c14234b.chunk.css",
+    "static/js/2.8b86b3a0.chunk.js": "/bimdev-learning/static/js/2.8b86b3a0.chunk.js",
+    "static/js/2.8b86b3a0.chunk.js.map": "/bimdev-learning/static/js/2.8b86b3a0.chunk.js.map",
+    "static/js/3.bd81a563.chunk.js": "/bimdev-learning/static/js/3.bd81a563.chunk.js",
+    "static/js/3.bd81a563.chunk.js.map": "/bimdev-learning/static/js/3.bd81a563.chunk.js.map",
+    "index.html": "/bimdev-learning/index.html",
+    "static/css/2.0c14234b.chunk.css.map": "/bimdev-learning/static/css/2.0c14234b.chunk.css.map",
+    "static/css/main.3d6683b3.chunk.css.map": "/bimdev-learning/static/css/main.3d6683b3.chunk.css.map",
+    "static/js/2.8b86b3a0.chunk.js.LICENSE.txt": "/bimdev-learning/static/js/2.8b86b3a0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.57b4c516.js",
+    "static/js/runtime-main.2e8e6c21.js",
     "static/css/2.0c14234b.chunk.css",
     "static/js/2.8b86b3a0.chunk.js",
     "static/css/main.3d6683b3.chunk.css",
-    "static/js/main.c5765a28.chunk.js"
+    "static/js/main.c5097200.chunk.js"
   ]
 }
